@@ -38,7 +38,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Most of the difficulty I encountered was making the layout. I had downloaded a newer version of Android Studio and the options did not match up with what was shown in the video. I had to fiddle with the code version of the layout to make the fields display properly. Enabling and disabling the option for "Enable Autoconnection with Parent" helped but just dragging and dropping elements onto the layout didn't work the way the video showed.
 
 ## License
 
